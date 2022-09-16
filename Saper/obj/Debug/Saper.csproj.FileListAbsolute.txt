@@ -1,0 +1,47 @@
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\bin\Debug\Saper.exe
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\bin\Debug\Saper.pdb
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\Saper.AboutProgram.resources
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\Saper.exe
+C:\Documents and Settings\Veles\Рабочий стол\Saper\Saper\obj\Debug\Saper.pdb
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\Saper.exe
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\Saper.pdb
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\bin\Debug\Saper.exe
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\bin\Debug\Saper.pdb
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\Saper.AboutProgram.resources
+C:\Documents and Settings\Tёm@\Рабочий стол\Нова папка\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.exe
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.pdb
+D:\Нова папка\Saper\Saper\bin\Debug\Saper.exe
+D:\Нова папка\Saper\Saper\bin\Debug\Saper.pdb
+D:\Нова папка\Saper\Saper\obj\Debug\ResolveAssemblyReference.cache
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.Form1.resources
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.FormHelp.resources
+D:\Нова папка\Saper\Saper\obj\Debug\Saper.FormOsoblyvi.resources
+D:\Saper\Saper\obj\Debug\Saper.exe
+D:\Saper\Saper\obj\Debug\Saper.pdb
+D:\Saper\Saper\bin\Debug\Saper.exe
+D:\Saper\Saper\bin\Debug\Saper.pdb
+D:\Saper\Saper\obj\Debug\ResolveAssemblyReference.cache
+D:\Saper\Saper\obj\Debug\Saper.Form1.resources
+D:\Saper\Saper\obj\Debug\Saper.FormHelp.resources
+D:\Saper\Saper\obj\Debug\Saper.FormOsoblyvi.resources
+D:\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+D:\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.Cache
+C:\Users\valeria\Downloads\Saper\Saper\bin\Debug\Saper.exe
+C:\Users\valeria\Downloads\Saper\Saper\bin\Debug\Saper.pdb
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.csproj.AssemblyReference.cache
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.Form1.resources
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.Properties.Resources.resources
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.csproj.GenerateResource.cache
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.csproj.CoreCompileInputs.cache
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.exe
+C:\Users\valeria\Downloads\Saper\Saper\obj\Debug\Saper.pdb
